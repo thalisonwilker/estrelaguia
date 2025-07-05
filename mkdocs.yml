@@ -2,7 +2,6 @@ site_name: Estrela Guia
 site_description: Assistente virtual astrológica com Python, ChatGPT e tool calling
 site_author: Estrela Guia Team
 repo_url: https://github.com/thalisonwilker/estrela-guia
-repo_name: estrela-guia
 
 theme:
   name: material
